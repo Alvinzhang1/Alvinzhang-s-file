@@ -1,6 +1,6 @@
 ---
 
-layout: slide
+###Go Big or Go Home
 
 title: "Welcome to our second slide!"
 
